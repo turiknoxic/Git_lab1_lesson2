@@ -1,3 +1,8 @@
 в demo ветке присутствует только мерж веток buttons в demo и  boots в release
 в ветке master присутствуют мержи из классной работы, и также мерж в master
  ветки удаленного репозитория hat и локальной ветки boots_buttons
+В репозитории видно только 4 коммита:
+1)heat added
+2)Merge remote-tracking branch 'origin/hat'
+3)Merge branch 'boots_buttons'
+4)homework
